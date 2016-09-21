@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-babel",
+  "name": "React Starter",
   "version": "0.0.3",
-  "description": "React Webpack Babel Starter Kit",
+  "description": "Starting Point for React Projects",
   "main": "''",
   "scripts": {
     "build": "webpack --config webpack.production.config.js --progress --profile --colors",
@@ -10,11 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alicoding/react-webpack-babel"
+    "url": "https://github.com/Ryan-Thomas/react-starter"
   },
-  "author": "Ali Al Dallal",
-  "license": "MIT",
-  "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
+  "author": "Ryan Thomas",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.3",
     "node-sass": "^3.9.2",
